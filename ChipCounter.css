@@ -6,7 +6,7 @@ body {
 .Chip_img {
     position:absolute;
     top:400px;
-    left:0px;
+    left:41%;
 }
 
 .botton {
@@ -19,8 +19,8 @@ body {
 
 .Chip_Output {
     position: absolute;
-    top: 220px;
-    left: 100px;
+    top: 30%;
+    left: 50%;
     font: 600 4rem/1 futura;
     text-align: center;
     width: 300px;
@@ -29,8 +29,8 @@ body {
 .input {
     
     position: absolute;
-    top: 150px;
-    left: 100px;
+    top: 20%;
+    left: 50%;
     font: 600 2rem/1 futura;
     width: 280px;
     background-color: white;
