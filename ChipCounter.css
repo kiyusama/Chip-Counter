@@ -21,6 +21,8 @@ body {
 
 
 .botton {
+    -webkit-appearance: none;
+    appearance: none;
     color: black;
     font: 600 2rem/1 futura;
     background-color: white;
