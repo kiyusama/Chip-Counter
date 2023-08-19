@@ -27,7 +27,7 @@ function showChipImage() {
         img.width = 50;
         img.style.position = "absolute";
         img.style.top = (i * -10) + (tenCounter * 100) + (hunCounter * 50) + 'px';
-        img.style.left = (tenCounter * 50) + (hunCounter * -500) + 'px';
+        img.style.left = (tenCounter * 50) + (hunCounter * -500) -250 + 'px';
         ImageContainer.appendChild(img);
 
         if (i % 10 == 0) {

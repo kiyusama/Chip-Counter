@@ -5,9 +5,8 @@ body {
 
 .Chip_img {
     position:absolute;
-    top:400px;
-    left:50%;
-    transform: translateX(-50%);
+    top:60%;
+    left:50%;  
 }
 
 .botton {
