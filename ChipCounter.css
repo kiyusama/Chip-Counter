@@ -15,7 +15,13 @@ body {
 @media (max-width: 500px) {
     .Chip_img {
         width: 300px;
+        top: 40%;
     }
+
+    .botton, .botton:link, .botton:visited, .botton:hover, .botton:active {
+        padding: 0em 0em;
+    }
+
 }
 
 
