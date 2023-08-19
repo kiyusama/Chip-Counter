@@ -20,9 +20,7 @@ body {
 
 
 
-.botton {
-    -webkit-appearance: none;
-    appearance: none;
+.botton, .botton:link, .botton:visited, .botton:hover, .botton:active {
     color: black;
     font: 600 2rem/1 futura;
     background-color: white;
