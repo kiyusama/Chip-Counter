@@ -7,18 +7,6 @@ body {
     position:absolute;
     top:60%;
     left:50%;  
-    max-width: 100%;
-    overflow-x: auto;
-    @media (max-width: 600px) {
-    .Chip_img {
-        max-width: 100%;
-        overflow-x: auto;
-    }
-
-    .Chip_img img {
-        width: 30px;
-    }
-}
 }
 
 .botton {
