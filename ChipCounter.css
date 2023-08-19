@@ -6,7 +6,7 @@ body {
 
 .Chip_img {
     position:absolute;
-    top:60%;
+    top:75%;
     left:50%;  
     transform: translateX(-50%);
     width: 500px;
@@ -15,8 +15,15 @@ body {
 @media (max-width: 500px) {
     .Chip_img {
         width: 300px;
-        top: 50%;
+        top: 65%;
     }
+}
+
+.button-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
 }
 
 
