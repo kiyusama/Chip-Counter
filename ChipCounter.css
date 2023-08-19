@@ -30,6 +30,13 @@ body {
     padding: 1em 1em;
 }
 
+@media (max-width: 500px) {
+    .botton, .botton:link, .botton:visited, .botton:hover, .botton:active {
+      padding: .5em .5em;
+      font-size: 600 2rem/1;
+    }
+  }
+
 .Chip_Output {
     position: absolute;
     top: 30%;
