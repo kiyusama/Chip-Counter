@@ -12,6 +12,14 @@ body {
     width: 500px;
 }
 
+@media (max-width: 500px) {
+    .Chip_img {
+        width: 300px;
+    }
+}
+
+
+
 .botton {
     font: 600 2rem/1 futura;
     background-color: white;
