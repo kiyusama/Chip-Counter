@@ -3,12 +3,13 @@ body {
     background-color: grey;
 }
 
+
 .Chip_img {
-    position:relative;
-    top:10%;
+    position:absolute;
+    top:60%;
     left:50%;  
-    transform: translateX(-25%);
-    
+    transform: translateX(-50%);
+    width: 500px;
 }
 
 .botton {
