@@ -11,7 +11,7 @@ document.getElementById("inputChips").addEventListener("input",function() {
 })
 
 if (window.innerWidth <= 500) {
-imageWidth = 30;
+imageWidth = 40;
 }
 
 function showChips() {
